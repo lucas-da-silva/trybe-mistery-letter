@@ -1,0 +1,112 @@
+* {
+    font-size: 50px;
+}
+
+body {
+    background-image: url(wallpaperflare.com_wallpaper.jpg);
+}
+
+main {
+    text-align: center;
+    margin-top: 100px;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(233, 109, 142);
+    margin-bottom: 20px;
+}
+
+#carta-gerada {
+    margin-top: 20px;
+}
+
+section {
+    text-align: center;
+}
+
+#section-ib {
+    margin-bottom: 10px;
+}
+
+#contador {
+    font-size: 30px;
+}
+
+#carta-texto {
+    border-radius: 20%;
+    width: 250px;
+    font-size: 25px;
+}
+
+#criar-carta {
+    border-radius: 50%;
+    color: rgb(0, 0, 0);
+    background-color: rgb(233, 66, 100);
+    font-size: 25px;
+}
+
+#contador {
+    display: inline;
+    color: rgb(228, 198, 231);
+}
+
+#carta-contador {
+    display: inline;
+    color: rgb(255, 250, 250);
+    font-size: 35px;
+}
+
+.newspaper {
+    background-color: #faebd7;
+    font-family: Times New Roman;
+    font-weight: 700; 
+}
+
+.magazine1 {
+    background-color: rgb(0, 128, 128);
+    color: rgb(255, 255, 255);
+    font-family: Verdana;
+    font-weight: 900;
+    text-transform: uppercase;
+}
+
+.magazine2 {
+    background-image: url('images/pink-pattern.png');
+    color: rgb(255, 0, 255);
+    font-family: Verdana;
+    font-weight: 900;
+}
+
+.medium {
+    font-size: 20px;
+    padding: 8px;
+
+}
+
+.big {
+    font-size: 30px;
+    padding: 10px;
+}
+
+.reallybig {
+    font-size: 40px;
+    padding: 15px;
+}
+
+.rotateleft {
+    transform: matrix(0.996195, -0.0871557, 0.0871557, 0.996195, 0, 0);
+
+}
+
+.rotateright {
+    transform: matrix(0.996195, 0.0871557, -0.0871557, 0.996195, 0, 0);
+}
+
+.skewleft {
+    transform: matrix(1, 0, 0.176327, 1, 0, 0);
+}
+
+.skewright {
+    transform: matrix(1, 0, -0.176327, 1, 0, 0);
+}
