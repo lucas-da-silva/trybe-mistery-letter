@@ -10,7 +10,7 @@ Digite um frase e ela é separada em palavras, em formato de carta, quando clica
 1. No terminal, em um diretório de sua escolha, clonar o repositório:
 
 ```
-git clone git@github.com:lucas-da-silva/trybe-mistery-letter.git
+git clone git@github.com:lucas-da-silva/mistery-letter.git
 ```
 
 2. Dentro do reposítorio, basta abrir o arquivo index.html para visualizar o projeto no navegador. :rocket:
